@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "591756651340",
+    "firebase_url": "https://android-chat-42ff0.firebaseio.com",
+    "project_id": "android-chat-42ff0",
+    "storage_bucket": "android-chat-42ff0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591756651340:android:2f9d5e2a81d48a88",
+        "android_client_info": {
+          "package_name": "com.example.cmunayll.androidchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591756651340-vnafa280ho1vo6rspr2dqkrkcmgju66l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjnYPPKN9jYmGGFhd-xSsG-qODUREtcTw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
